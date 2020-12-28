@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Tejas Srivastava, a | Polyglot | Full Stack Engineer | Generalist | Opensource Enthusias.
+I'm Tejas Srivastava, a | Polyglot | Full Stack Engineer | Generalist | Opensource Enthusiast.
 
 
 ### Reach me
