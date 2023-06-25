@@ -21,7 +21,6 @@ I'm Tejas Srivastava, a | Polyglot | Full Stack Engineer | Generalist | Opensour
 ### Reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejassrivastava)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teju94)
 
 
 
@@ -29,4 +28,4 @@ I'm Tejas Srivastava, a | Polyglot | Full Stack Engineer | Generalist | Opensour
 
 [![Tejas's Github Stats](https://github-readme-stats.vercel.app/api?username=tejassrivastava&count_private=true&theme=default&show_icons=true)](https://github.com/tejassrivastava)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=tejassrivastava.tejassrivastava)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=tejassrivastava&label=Visitors&countColor=%232ccce4)
