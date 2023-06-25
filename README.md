@@ -27,5 +27,8 @@ I'm Tejas Srivastava, a | Polyglot | Full Stack Engineer | Generalist | Opensour
 ### Github Stats
 
 [![Tejas's Github Stats](https://github-readme-stats.vercel.app/api?username=tejassrivastava&count_private=true&theme=default&show_icons=true)](https://github.com/tejassrivastava)
+![tejassrivastava's Stats](https://github-readme-stats.vercel.app/api?username=tejassrivastava&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![tejassrivastava's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejassrivastava&theme=algolia&hide_border=true)
+![tejassrivastava's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejassrivastava&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=tejassrivastava&label=Visitors&countColor=%232ccce4)
